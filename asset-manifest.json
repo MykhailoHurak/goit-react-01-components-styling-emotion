@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-01-components-styling-emotion/static/css/main.caadb3dc.css",
+    "main.js": "/goit-react-01-components-styling-emotion/static/js/main.a3f6a145.js",
+    "index.html": "/goit-react-01-components-styling-emotion/index.html",
+    "main.caadb3dc.css.map": "/goit-react-01-components-styling-emotion/static/css/main.caadb3dc.css.map",
+    "main.a3f6a145.js.map": "/goit-react-01-components-styling-emotion/static/js/main.a3f6a145.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caadb3dc.css",
+    "static/js/main.a3f6a145.js"
+  ]
+}
